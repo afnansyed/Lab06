@@ -3,7 +3,7 @@ import java.lang.Math;
 
 public class SciCalculator {
     public static void main(String[] args) {
-        //initializes variables and scans the user input to the calculator program and displays strings that prompt the user to input the values
+        //initializes the variables and scans the user input to the calculator program and displays strings that prompt the user to input the values
         double answer = 0;
         Scanner myScanner = new Scanner(System.in);
         double totalAnswer = 0;
